@@ -12,3 +12,4 @@ C:\Users\Illya\RiderProjects\RestaurantSystemTask\RestaurantSystemTask\obj\Debug
 C:\Users\Illya\RiderProjects\RestaurantSystemTask\RestaurantSystemTask\obj\Debug\net8.0\RestaurantSystemTask.pdb
 C:\Users\Illya\RiderProjects\RestaurantSystemTask\RestaurantSystemTask\obj\Debug\net8.0\RestaurantSystemTask.genruntimeconfig.cache
 C:\Users\Illya\RiderProjects\RestaurantSystemTask\RestaurantSystemTask\obj\Debug\net8.0\ref\RestaurantSystemTask.dll
+C:\Users\Illya\RiderProjects\RestaurantSystemTask\RestaurantSystemTask\obj\Debug\net8.0\RestaurantSystemTask.sourcelink.json
