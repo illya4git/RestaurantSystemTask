@@ -1,0 +1,14 @@
+C:\Users\Illya\RiderProjects\RestaurantSystemTask\RestaurantSystemTask\bin\Debug\net8.0\RestaurantSystemTask.exe
+C:\Users\Illya\RiderProjects\RestaurantSystemTask\RestaurantSystemTask\bin\Debug\net8.0\RestaurantSystemTask.deps.json
+C:\Users\Illya\RiderProjects\RestaurantSystemTask\RestaurantSystemTask\bin\Debug\net8.0\RestaurantSystemTask.runtimeconfig.json
+C:\Users\Illya\RiderProjects\RestaurantSystemTask\RestaurantSystemTask\bin\Debug\net8.0\RestaurantSystemTask.dll
+C:\Users\Illya\RiderProjects\RestaurantSystemTask\RestaurantSystemTask\bin\Debug\net8.0\RestaurantSystemTask.pdb
+C:\Users\Illya\RiderProjects\RestaurantSystemTask\RestaurantSystemTask\obj\Debug\net8.0\RestaurantSystemTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Illya\RiderProjects\RestaurantSystemTask\RestaurantSystemTask\obj\Debug\net8.0\RestaurantSystemTask.AssemblyInfoInputs.cache
+C:\Users\Illya\RiderProjects\RestaurantSystemTask\RestaurantSystemTask\obj\Debug\net8.0\RestaurantSystemTask.AssemblyInfo.cs
+C:\Users\Illya\RiderProjects\RestaurantSystemTask\RestaurantSystemTask\obj\Debug\net8.0\RestaurantSystemTask.csproj.CoreCompileInputs.cache
+C:\Users\Illya\RiderProjects\RestaurantSystemTask\RestaurantSystemTask\obj\Debug\net8.0\RestaurantSystemTask.dll
+C:\Users\Illya\RiderProjects\RestaurantSystemTask\RestaurantSystemTask\obj\Debug\net8.0\refint\RestaurantSystemTask.dll
+C:\Users\Illya\RiderProjects\RestaurantSystemTask\RestaurantSystemTask\obj\Debug\net8.0\RestaurantSystemTask.pdb
+C:\Users\Illya\RiderProjects\RestaurantSystemTask\RestaurantSystemTask\obj\Debug\net8.0\RestaurantSystemTask.genruntimeconfig.cache
+C:\Users\Illya\RiderProjects\RestaurantSystemTask\RestaurantSystemTask\obj\Debug\net8.0\ref\RestaurantSystemTask.dll
